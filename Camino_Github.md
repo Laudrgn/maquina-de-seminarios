@@ -75,5 +75,5 @@ vemos los repositorios vinculados
 $git remote remove origin 
 los borramos (chequeamos con $git remote -v y no habría nada)
 Volvemos a colocarlos con nuestro token
-$git remote add origin git remote add origin https://TOKEN@github.com/USUARIO/REPO.git
+$git remote add origin https://TOKEN@github.com/USUARIO/REPO.git
 

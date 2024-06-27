@@ -54,9 +54,9 @@ Puedo chequear por github web al repositorio correspondiente si se subieron/modi
 
 -------------------
 SOY DUEÑO O COLAB del Repo y quiero hacer PUSH
-Colocar tu nombre de usuario @ github
+Colocar TOKEN: tu nombre de usuario @ github
 
-$git clone https://TUUSUARIO@github.com/USUARIO/NOMBREDELREPO.git NOMBREDECARPETANUEVO
+$git clone https://TOKEN:USUARIO@github.com/USUARIO/NOMBREDELREPO.git NOMBREDECARPETANUEVO
 
 Y luego al hacer push, te va a pedir una contraseña, que es el token personal! Ver autenticaciones abajo
 
@@ -75,5 +75,6 @@ vemos los repositorios vinculados
 $git remote remove origin 
 los borramos (chequeamos con $git remote -v y no habría nada)
 Volvemos a colocarlos con nuestro token
-$git remote add origin https://TOKEN@github.com/USUARIO/REPO.git
+$git remote add origin https://TOKEN:USUARIO@github.com/USUARIO/REPO.git
+
 

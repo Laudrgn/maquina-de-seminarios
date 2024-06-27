@@ -5,6 +5,8 @@ O ir a algún repositorio que quiero probar/trabajar
 
 copiar la URL del proyecto desde el botón CODE
 
+SOLO COPIAR Repositorio: (si queres hacer push, ver más abajo)
+
 Luego clonarlo en local:
 
 Ubicarse por línea de comandos en la carpeta donde se va a clonar el repositorio
@@ -51,6 +53,14 @@ $git commit -m "primer commit"
 Puedo chequear por github web al repositorio correspondiente si se subieron/modificaron los archivos correspondientes
 
 -------------------
+SOY DUEÑO O COLAB del Repo y quiero hacer PUSH
+Colocar tu nombre de usuario @ github
+
+$git clone https://TUUSUARIO@github.com/USUARIO/NOMBREDELREPO.git NOMBREDECARPETANUEVO
+
+Y luego al hacer push, te va a pedir una contraseña, que es el token personal! Ver autenticaciones abajo
+
+--------------------
 Autenticaciones:
 Para cambiar archivos en mi propio repositorio, debo crear un token personal
 En la web, ir a settings -> developer settings -> personal access tokens -> classic token -> generate new token

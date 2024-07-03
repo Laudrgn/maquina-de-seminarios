@@ -5,6 +5,19 @@ https://www.instructables.com/How-to-Use-AI-in-Arduino/
 
 A estudiantes de cualquier edad les podes enseñar kNN: buscar los n que te dieron de ejemplo mas parecidos al que te estan preguntando y elegir la respuesta mas votada. Se puede hasta con papel y lapiz, planilla, y es re facil de programar basico ej es un lindo ejercicio con arrays.
 
+
+Lo mismo de "calculo lamda" yo aprendi de un articulo de teoria literaria donde Barthes habla de "funciones narrativas". Asi como el cuento tiene introduccion, nudo y desenlace esta hecho de muchas acciones chiquitas que tambien tienen esas tres partes.
+
+Es otra version de "beta reduction"
+
+Y ej reescribir El Quijote pero en el espacio exterior o en el 2050 podria ser alpha renaming.
+
+Una vez que agarras el Quijote y te armas como reemplazar personajes, epoca y lugar eso es una abstraccion.
+
+Si ahora ponemos que sea en el japon en 1920 eso es una aplicacion.
+
+
+
 Programamos nuestra propia IA
 
 Del Doc que hicimos la otra vez:
